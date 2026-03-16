@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import { ExitStatus } from "typescript";
 
 export const connectDB = async () => {
   try {
